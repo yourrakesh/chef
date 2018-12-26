@@ -4,6 +4,9 @@ Welcome to chef Kitechen
 
 Add Recipe to install vim editor
 
+Add Receipe to install httpd server
+
+Add Receipe to start httpd server
 
 
 Thanks you :)
